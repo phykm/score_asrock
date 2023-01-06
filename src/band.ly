@@ -21,6 +21,12 @@ voc_melo = {
   \clef "treble_8"
   { 
     \bKey
+    \intro_vocal_tachet
+    \amelo_vocal
+    \bmelo_vocal
+    \amelohalf_vocal
+    \hook_vocal
+    \hookafter_vocal
     %
     \bar "|."
   } 
@@ -34,6 +40,10 @@ guitar_melo = {
     \bKey
     \intro_guitar
     \amelo_guitar
+    \bmelo_guitar
+    \amelohalf_guitar
+    \hook_guitar
+    \hookafter_guitar
     %
     \bar "|."
   }
@@ -57,6 +67,12 @@ bass = {
   \clef "bass_8"
   { 
     \bKey
+    \intro_bass
+    \amelo_bass
+    \bmelo_bass
+    \amelohalf_bass
+    \hook_bass
+    \hookafter_bass
     %
     \bar "|."
   }
